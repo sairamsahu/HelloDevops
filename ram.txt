@@ -1,2 +1,3 @@
 console.log("Hi, GIT"); 
 console.log("Hi, DEVOPS");
+document.write("javascript");
