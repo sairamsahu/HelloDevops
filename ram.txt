@@ -1,1 +1,2 @@
-console.log("Hi, GIT");
+console.log("Hi, GIT"); 
+console.log("Second line Added");
